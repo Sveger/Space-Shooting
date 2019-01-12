@@ -1,0 +1,3 @@
+Controls: arrows - move
+          Ctrl - shoot
+Goal: Shoot as many enemies as you can.

@@ -1,0 +1,17 @@
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\bin\Debug\VesmirnaStrielacka.exe.config
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\bin\Debug\VesmirnaStrielacka.exe
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\bin\Debug\VesmirnaStrielacka.pdb
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\obj\Debug\VesmirnaStrielacka.csprojAssemblyReference.cache
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\obj\Debug\VesmirnaStrielacka.HlavnaPonuka.resources
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\obj\Debug\VesmirnaStrielacka.HlavneOkno.resources
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\obj\Debug\VesmirnaStrielacka.Properties.Resources.resources
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\obj\Debug\VesmirnaStrielacka.csproj.GenerateResource.cache
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\obj\Debug\VesmirnaStrielacka.csproj.CoreCompileInputs.cache
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\obj\Debug\VesmirnaStrielacka.exe
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\obj\Debug\VesmirnaStrielacka.pdb
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\bin\Debug\Grafika\Nepritel1.bmp
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\bin\Debug\Grafika\Nepritel2.bmp
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\bin\Debug\Grafika\Strela.bmp
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\bin\Debug\Grafika\Zivoty1.bmp
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\bin\Debug\Grafika\Zivoty2.bmp
+D:\VisualStudio\9th Chapter\VesmirnaStrielacka\VesmirnaStrielacka\bin\Debug\Grafika\Zivoty3.bmp
